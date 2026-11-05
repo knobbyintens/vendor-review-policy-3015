@@ -1,2 +1,4 @@
-# vendor-review-policy-3015
-Integration review routing policy documents.
+# Integration Review Policy Repository
+
+Policy documents used by the Integration Review Board when routing
+third-party integration requests.
